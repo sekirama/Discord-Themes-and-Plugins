@@ -7,14 +7,14 @@
  */
 
 :root {
-	--main-color: rgba(37,172,232,1);
-	--main-color-faded: rgba(37,172,232,0.2);
-	--accent-color: rgba(29,101,134,1);
+	--main-color: rgba(65,81,43);
+	--main-color-faded: rgba(20,10,3);
+	--accent-color: rgba(100,100,100);
 	--dark-color: #161921;
 
 	/* Modal Background Color / Opacity */
-	--short-gradient: linear-gradient(45deg, rgba(29,101,134,0.5), rgba(37,172,232,0.5));
-	--short-gradient-faded: linear-gradient(45deg, rgba(29,101,134,0.1), rgba(37,172,232,0.1));
+	--short-gradient: linear-gradient(45deg, rgba(100,100,100), rgba(100,100,100));
+	--short-gradient-faded: linear-gradient(45deg, rgba(22,25,33), rgba(38,58,39));
 }
 
 /*
@@ -29,7 +29,7 @@
 /* Main background and settings background */
 .app,
 .callout-backdrop {
-	background: url(https://i.imgur.com/7SbtKvw.png) !important;
+	background: url(https://xn--oo-yjab.cl/wp-content/uploads/2015/12/harry-potter-reliquias-de-la-muerte-hp-7.jpg) !important;
 	background-size: cover !important;
 }
 
